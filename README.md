@@ -11,7 +11,8 @@ The project helps in building skills around **data pipelines, Scrapy, SQL integr
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structur
+```txt
   data-scraping-analysis-api/
   │── README.md
   │── requirements.txt
@@ -23,6 +24,7 @@ The project helps in building skills around **data pipelines, Scrapy, SQL integr
   │── tests/ # Unit tests
   │── docs/ # Documentation & reports
   │── dataset/ # Raw + processed data
+```
 
   
 ---
