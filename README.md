@@ -28,14 +28,9 @@ The project helps in building skills around **data pipelines, Scrapy, SQL integr
 ---
 
 ## 📊 Dataset
-We will use an **open-source dataset with lakhs of records**, scraped or bulk-downloaded. Examples:  
-- **IMDb Movies Dataset** (scrapable via Scrapy).  
-- **Books to Scrape dataset** (for practice, smaller but Scrapy-friendly).  
-- **NYC Taxi Trips dataset** (bulk download, millions of rows).  
+We will use an **open-source dataset with lakhs of records**, scraped or bulk-downloaded. 
+- https://www.kaggle.com/datasets/prayeshgodhani04/ahmedabad-flat-price-dataset-uncleaned  
 
-💡 Idea: Use **Scrapy** to scrape IMDb (titles, genres, ratings) and also bulk-download NYC Taxi dataset to combine **scraping + analysis of large datasets**.
-
----
 
 ## 🚀 Features
 - ✅ **Scraping with Scrapy spiders** (crawl pages, extract structured data).  
