@@ -1,0 +1,26 @@
+# Core data libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Scraping
+scrapy
+lxml
+scrapy-playwright   # optional, if JS-heavy sites
+
+# Database
+sqlalchemy
+alembic             # migrations
+psycopg2-binary     # PostgreSQL driver (use mysqlclient if MySQL)
+sqlite-utils        # handy for SQLite (optional)
+
+# API
+fastapi
+uvicorn
+
+# Testing
+pytest
+httpx              # for API tests

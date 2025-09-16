@@ -80,8 +80,7 @@ cd data-scraping-analysis-api
 
 ## Create virtual environment
 python -m venv venv
-source venv/bin/activate  # (Linux/Mac)
-venv\Scripts\activate     # (Windows)
+source venv/bin/activate
 
 ## Install requirements
 pip install -r requirements.txt
