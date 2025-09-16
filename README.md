@@ -31,7 +31,7 @@ The project helps in building skills around **data pipelines, Scrapy, SQL integr
 
 ## 📊 Dataset
 We will use an **open-source dataset with lakhs of records**, scraped or bulk-downloaded. 
-- https://www.kaggle.com/datasets/prayeshgodhani04/ahmedabad-flat-price-dataset-uncleaned  
+- [https://books.toscrape.com/](https://books.toscrape.com/)
 
 
 ## 🚀 Features
