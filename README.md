@@ -26,6 +26,8 @@ The project helps in building skills around **data pipelines, Scrapy, SQL integr
   │── dataset/ # Raw + processed data
 ```
 
+## 📂 Project Timeline
+30 Sept Deadline
   
 ---
 
